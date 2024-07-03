@@ -1,6 +1,7 @@
 "use client";
 import Photo from "@/components/Photo";
 import Social from "@/components/Social";
+import Stats from "@/components/Stats";
 import { Button } from "@/components/ui/button";
 import { FiDownload } from "react-icons/fi";
 
@@ -43,6 +44,7 @@ const Home = () => {
           </div>
         </div>
       </div>
+        <Stats/>
     </section>
   );
 };
