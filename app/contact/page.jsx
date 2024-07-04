@@ -51,8 +51,7 @@ const Contact = () => {
             <form className="flex flex-col gap-6 p-10 bg-[#27272c] rounded-xl">
               <h3 className="text-4xl text-accent">Let't work together</h3>
               <p className="text-white/60">
-                Lorem Ipsum is simply dummy text of the printing and typesetting
-                industry.{" "}
+                
               </p>
               {/* input */}
               <div className="grid grid-cols- md:grid-col-2 xl:grid-cols-2 gap-6">
