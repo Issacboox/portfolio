@@ -43,7 +43,7 @@ import { motion } from "framer-motion";
 const about = {
   title: "About me",
   description:
-    "I am a recent graduate with a Bachelors degree in Information Technology, actively seeking a challenging position in software development. I bring strong expertise in back-end technologies, but I am also proficient in front-end development. I am flexible and capable of working on both ends of a project. With strong problem-solving skills and good logical thinking, along with a deep passion for continuous learning I am eager to make significant contributions to a dynamic development team",
+    "I am a recent graduate with a Bachelor degree in Information Technology, actively seeking a challenging position in software development. I bring strong expertise in back-end technologies, but I am also proficient in front-end development. I am flexible and capable of working on both ends of a project. With strong problem-solving skills and good logical thinking, along with a deep passion for continuous learning I am eager to make significant contributions to a dynamic development team",
   info: [
     { fieldName: "Name", fieldValue: "Nurarat Sangreuang" },
     { fieldName: "Phone", fieldValue: "(+66) 065 082 2811" },

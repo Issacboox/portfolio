@@ -18,7 +18,7 @@ const Home = () => {
               <span className="text-accent">Nurarat S.</span>
             </h1>
             <p className="max-w-[500px] mb-9 text-white/80">
-              I am proficient in various programming languages and technologies
+              I am proficient in various programming languages and technologiy
             </p>
             {/* social */}
             <div className="flex flex-col xl:flex-row items-center gap-8">
