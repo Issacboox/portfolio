@@ -47,7 +47,7 @@ const about = {
   info: [
     { fieldName: "Name", fieldValue: "Nurarat Sangreuang" },
     { fieldName: "Phone", fieldValue: "(+66) 065 082 2811" },
-    { fieldName: "Experience", fieldValue: "6 months" },
+    { fieldName: "Experience", fieldValue: "3 months" },
     { fieldName: "Github", fieldValue: "Issacboox" },
     { fieldName: "Nationality", fieldValue: "Thailand" },
     { fieldName: "Email", fieldValue: "nurarat0024@gmail.com" },
@@ -62,16 +62,16 @@ const experience = {
   description:
     "I have gained valuable experience in software engineering and programming through my roles at INET and Toyota Material Handling Warehouse Solution Thailand.",
   items: [
-    {
-      company: "INET",
-      position: "Software Engineer",
-      duration: "April - June 2024",
-      responsibilities: [
-        "Implementing RESTful APIs and backend services using Go and Fiber framework.",
-        "Integrating third-party services and APIs for enhanced functionality.",
-        "Ensuring code quality through testing and code reviews.",
-      ],
-    },
+    // {
+    //   company: "INET",
+    //   position: "Software Engineer",
+    //   duration: "April - June 2024",
+    //   responsibilities: [
+    //     "Implementing RESTful APIs and backend services using Go and Fiber framework.",
+    //     "Integrating third-party services and APIs for enhanced functionality.",
+    //     "Ensuring code quality through testing and code reviews.",
+    //   ],
+    // },
     {
       company: "Toyota Mateial Handling Warehouse Solution",
       position: "Intern Programmer",
