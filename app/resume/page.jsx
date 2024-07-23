@@ -60,7 +60,7 @@ const experience = {
   icon: "/assets/resume/badge.svg",
   title: "My Experience",
   description:
-    "I have gained valuable experience in software engineering and programming through my roles at INET and Toyota Material Handling Warehouse Solution Thailand.",
+    "I have gained valuable experience in software engineering and programming through my roles at Toyota Material Handling Warehouse Solution Thailand.",
   items: [
     // {
     //   company: "INET",
